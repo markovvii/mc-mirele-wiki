@@ -14,7 +14,7 @@ sidebar_position: 2
 
 [**Emote Craft**](https://www.curseforge.com/minecraft/mc-mods/emotecraft) — добавляет анимированные эмоции
 
-Оба мода доступны на Forge и Fabric. Если вы всё ещё не знаете как устанавливать моды, то [нажмите сюда](https://mcmirele.esme.team/%D0%92%D0%B8%D0%BA%D0%B8%20Mirele%20MC/mods#установка-модов)
+Оба мода доступны на Forge и Fabric. Если вы всё ещё не знаете как устанавливать моды, то смотрите инструкцию ниже
 
 ## Установка модов
 
