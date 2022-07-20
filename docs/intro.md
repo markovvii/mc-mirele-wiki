@@ -21,8 +21,3 @@ sidebar_position: 1
 ![Crew Dragon Launch](https://i.imgur.com/5mJhId8.png)
 
 _Запуск Crew Dragon от SpaceX_
-
-import DocCardList from '@theme/DocCardList';
-import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
-
-<DocCardList items={useCurrentSidebarCategory().items}/>
