@@ -40,19 +40,20 @@ const config = {
           editUrl:
             'https://github.com/markovvii/mc-mirele-wiki/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/markovvii/mc-mirele-wiki/tree/main/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
-    ],
-  ],
+        blog: false,
+//        blog: {
+//          showReadingTime: true,
+//          // Please change this to your repo.
+//          // Remove this to remove the "edit this page" links.
+//          editUrl:
+//            'https://github.com/markovvii/mc-mirele-wiki/tree/main/',
+//        },
+//        theme: {
+//          customCss: require.resolve('./src/css/custom.css'),
+//        },
+//      }),
+//    ],
+//  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
