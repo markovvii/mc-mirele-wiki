@@ -48,12 +48,12 @@ const config = {
 //          editUrl:
 //            'https://github.com/markovvii/mc-mirele-wiki/tree/main/',
 //        },
-//        theme: {
-//          customCss: require.resolve('./src/css/custom.css'),
-//        },
-//      }),
-//    ],
-//  ],
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
+    ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
