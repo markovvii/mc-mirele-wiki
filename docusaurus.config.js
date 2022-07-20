@@ -59,23 +59,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Wiki mirele.esme.team',
+        title: 'Вики Mirele MC',
         logo: {
           alt: 'Лого',
           src: 'img/axolotl.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            href: "https://www.instagram.com/fraukrauze/",
+            position: "right",
+            label: "📷 Instagram",
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://discord.gg/j7PKU5WU6y",
+            position: "right",
+            label: "🔊 Discord",
           },
         ],
       },
