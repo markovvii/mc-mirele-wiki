@@ -1,6 +1,6 @@
 ---
 slug: /
-title: ❤️ Wiki майнкрафт сервера mirele.esme.team
+title: ❤️ Wiki сервера
 sidebar_position: 1
 ---
 
