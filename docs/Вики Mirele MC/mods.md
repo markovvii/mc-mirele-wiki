@@ -3,9 +3,9 @@ title: 🧳 Моды для сервера
 sidebar_position: 2
 ---
 
-#### Моды для сервера
-
+:::note
 Моды опциональные, зайти на сервер можно с ванильного клиента без модов
+:::
 
 [**Plasmo Voice**](https://modrinth.com/mod/plasmo-voice) — добавляет голосовой чат
 
@@ -13,7 +13,7 @@ sidebar_position: 2
 
 Оба мода доступны на Forge и Fabric. Если вы всё ещё не знаете как устанавливать моды, то [нажмите сюда](https://www.google.com/search?channel=fs&client=ubuntu&q=%D0%9A%D0%B0%D0%BA+%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+Fabric)
 
-# Plasmo Voice
+## Plasmo Voice
 
 Нажмите на клавишу `V` по умолчанию, чтобы открыть меню мода
 
@@ -43,7 +43,7 @@ sidebar_position: 2
 
 ![](https://rp.plo.su/imageProxy?imageUrl=https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_player_icons.png?raw=true)
 
-# EmoteCraft
+## EmoteCraft
 
 ![](https://rp.plo.su/imageProxy?imageUrl=https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft.webp?raw=true)
 
