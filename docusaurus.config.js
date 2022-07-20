@@ -10,7 +10,7 @@ const config = {
   tagline: 'Вики по майнкарфт серверу!)',
   url: 'https://mcmirele.esme.team',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
