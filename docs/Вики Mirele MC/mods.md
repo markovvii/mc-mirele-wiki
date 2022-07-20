@@ -60,6 +60,4 @@ sidebar_position: 2
 4.  Нажмите кнопку `Готово` и снова нажмите `B`, чтобы открыть меню эмоций и протестировать новые эмоции
 5.  Чтобы установить больше эмоций, скачайте их, а затем перекиньте в папку `.minecraft/emotes`
 
-**Скачать больше эмоций:** [https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes](https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes)
-
-**Гайд по созданию эмоций в Blender или Blockbench:** [https://kosmx.gitbook.io/emotecraft/tutorial/custom-emotes](https://kosmx.gitbook.io/emotecraft/tutorial/custom-emotes)
+**Скачать больше эмоций:** [https://docs.google.com/document/d/1mIh0roUFZ3xiROibgymcMNu6nrD6hrXF18rTmp0SkB4/edit](https://docs.google.com/document/d/1mIh0roUFZ3xiROibgymcMNu6nrD6hrXF18rTmp0SkB4/edit)
