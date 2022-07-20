@@ -8,6 +8,7 @@ sidebar_position: 2
 :::
 :::tip
 Если вы используете Forge, то я рекомендую вам перейти на [Fabric](https://fabricmc.net/use/installer/)
+:::
 
 [**Plasmo Voice**](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice) — добавляет голосовой чат
 
