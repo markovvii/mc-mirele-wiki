@@ -6,8 +6,10 @@ sidebar_position: 2
 :::note
 Моды опциональные, зайти на сервер можно с ванильного клиента без модов
 :::
+:::tip
+Если вы используете Forge, то я рекомендую вам перейти на [Fabric](https://fabricmc.net/use/installer/)
 
-[**Plasmo Voice**](https://modrinth.com/mod/plasmo-voice) — добавляет голосовой чат
+[**Plasmo Voice**](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice) — добавляет голосовой чат
 
 [**Emote Craft**](https://www.curseforge.com/minecraft/mc-mods/emotecraft) — добавляет анимированные эмоции
 

@@ -66,9 +66,9 @@ const config = {
         },
         items: [
           {
-            href: "https://www.instagram.com/fraukrauze/",
+            href: "https://t.me/markoffkin_bot",
             position: "right",
-            label: "📷 Instagram",
+            label: "💬 Telegram",
           },
           {
             href: "https://discord.gg/j7PKU5WU6y",
