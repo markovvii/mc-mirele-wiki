@@ -1,5 +1,5 @@
 ---
-title: 🧭 Плагины. Механики и команды
+title: 🧳 Плагины. Механики и команды
 sidebar_position: 4
 ---
 
@@ -36,7 +36,7 @@ sidebar_position: 4
 </ul>
 </li>
 </ul>
-<p node="[object Object]" class="text_16 markdown_paragraph"><img src="/imageProxy?imageUrl=https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/imageonmap.png?raw=true" alt="" node="[object Object]" class="markdown_image"></p>
+<p node="[object Object]" class="text_16 markdown_paragraph"><img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/imageonmap.png?raw=true" alt="" node="[object Object]" class="markdown_image"></p>
 <ul depth="0" node="[object Object]" class="markdown_list">
 <li>Команда <code node="[object Object]" class="markdown_code">/maps</code> открывает GUI, в котором вы можете управлять созданными вами картами</li>
 <li>Команда <code node="[object Object]" class="markdown_code">/maptool</code> дополнительные инструменты для управления картами, которая скорее всего вам не будет нужна, но она есть</li>
