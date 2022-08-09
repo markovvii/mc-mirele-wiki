@@ -7,7 +7,7 @@ sidebar_position: 3
 Ресурспак опциональный, устаналивать его не обязательно. Но он добавляет много крутых фич, поэтому мы рекомендуем играть с этим ресурспаком
 :::
 
-1.  Скачайте [ресурспак](https://esme.team/zalupa/download/ESME%20Pack%201.0.zip)
+1.  Скачайте [ресурспак](https://esme.team/zalupa/download/esmepack.zip)
 2.  Перекиньте его в папку `.minecraft/resourcepacks/`
 3.  Активируйте ресурспак в настройках игры
 4.  Чтобы работали новые предметы — установите [Optifine](https://optifine.net/home) (для Forge) или [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) (для Fabric).
