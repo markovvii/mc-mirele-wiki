@@ -14,7 +14,7 @@ sidebar_position: 3
 
 ## Эмоуты в чате
 
-![](https://rp.plo.su/imageProxy?imageUrl=https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.webp?raw=true)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.webp?raw=true)
 
 Используйте `/emotes` чтобы просмотреть список эмоутов
 
